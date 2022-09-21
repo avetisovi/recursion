@@ -1,3 +1,4 @@
+// Loop
 function fibs(num) {
   let total = [];
   for (let i = 0; i < num; i++) {
@@ -10,6 +11,7 @@ function fibs(num) {
   return total;
 }
 
+// Recursion
 function fibsRec(num) {
   if (num <= 1) return [0];
 
