@@ -1,2 +1,2 @@
 # recursion
-"he Odin Project Assignment
+## "The Odin Project" Assignment
